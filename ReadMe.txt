@@ -1,0 +1,1 @@
+Place the MATLAB files in LibSVM folder and run the main.m
